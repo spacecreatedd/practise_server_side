@@ -1,0 +1,23 @@
+{
+    "name": "spacecreatedd/practise_server_side",
+    "description": "practise server side",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "spacecreatedd",
+            "email": "kimzhenya1313@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4 | ^8.0"
+     
+     },
+     "autoload": {
+        "psr-4": {
+            "Src\\": "core/Src/",
+            "": "app/"
+        }
+    }
+}
