@@ -3,7 +3,7 @@
         'name' => 'spacecreatedd/practise_server_side',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '00432312528c1711fb109f7d5675261eeb6e46ae',
+        'reference' => '46b52f3ad4380d9ac6d42780fc8db73b14b25901',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'spacecreatedd/practise_server_side' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '00432312528c1711fb109f7d5675261eeb6e46ae',
+            'reference' => '46b52f3ad4380d9ac6d42780fc8db73b14b25901',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
